@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hey
-permalink: /hey/
+title: Über
+permalink: /about/
 ---
 
-Hey! 
+Hey! 👋
