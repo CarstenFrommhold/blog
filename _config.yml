@@ -6,7 +6,7 @@
 name: Testblog
 
 # Name of the author
-author: Carsten Frommhold
+author: Carsten
 
 # Short bio or description (displayed in the header)
 description: On the joy of life 
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: carsten.frommhold@datadrivers.de
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
-  instagram:
+  github: CarstenFrommhold
+  instagram: carsten.frommhold
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -48,14 +48,14 @@ disqus:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://www.carstenfrommhold.de
+enforce_ssl: https://www.carstenfrommhold.de
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie-test"
+baseurl: "/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -89,7 +89,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
