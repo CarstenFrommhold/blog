@@ -11,7 +11,7 @@ Dafür bietet sich am Tag drauf die Chance auf einen Doppelspieltag. Mit einem k
 
 
 
-![](../images/20220213_131935-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20220213_131935-2048x1152.jpg)
 
  RB Linense – UE Costa Brava 0:0  
 🏆 Primera Division RFEF – Groupo B  
@@ -22,7 +22,7 @@ Real Balompédica (das coolere RB) Linense spielt gegenwärtig in der zweigleisi
 
 
 
-![](../images/20220213_170354-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20220213_170354-2048x1152.jpg)
 
 ⚽️ Lincoln Red Imps – St Joseph’s FC 3:2  
 🏆 Gibraltar National Legue  

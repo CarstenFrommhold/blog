@@ -5,7 +5,7 @@ categories: [Groundhopping]
 ---
 
 
-![](../images/20220402_165331-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20220402_165331-2048x1152.jpg)
 
 ⚽️ Arminia Bielefeld – VfB Stuttgart 1:1  
 🏆 Bundesliga   

@@ -8,7 +8,7 @@ Mitte April in Hamburg, erste Sonnenstrahlen, Stadtderby. Durch den Abstieg hat 
 
 Seit dem sich die beiden Mannschaften in der zweiten Liga regelmäßig begegnen, hat der FC St. Pauli die bessere Bilanz. 9 Spiele, 2 Remis, 2x Sieg HSV, 5x Sieg St. Pauli. Und auch heute kommen die Gäste mit breiter Brust. Die Siegesserie von zehn Spielen ist erst eine Woche vorher gestoppt worden. Nur noch 6 Punkte trennen beide Teams.
 
-![](../images/20230421_182742-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20230421_182742-2048x1152.jpg)
 
 ⚽️ Hamburger SV – FC St. Pauli 4:3  
 🏆 2. Bundesliga  

@@ -19,7 +19,7 @@ Der Modus der heimischen Premiere Division wurde in den vergangenen Jahres immer
 
 **Und dann singen sie…**
 
-![](../images/1655989532-2048x1152.jpg)
+![]({{ site.baseurl }}/images/1655989532-2048x1152.jpg)
 
 … laut, euphorisch, melodisch, die ganzen 90 Minuten über. Die Lust ist spürbar groß nach für Argentinier viel zu langen 10 Wochen Pause. Und nach einem Tag wie diesem bildet man sich ein auch die Melancholie und Sehnsucht nach besseren Zeiten aus diesen Gesängen herauszuhören. Kein großes Vorprogramm unterbricht die Vorfreude auf das Spiel, zumal sich das Stadion sowieso erst kurz vor dem Anpfiff richtig füllt.
 

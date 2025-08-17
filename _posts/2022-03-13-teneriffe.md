@@ -5,7 +5,7 @@ categories: [Groundhopping]
 ---
 
 
-![](../images/20220313_124004-2048x1170.jpg)
+![]({{ site.baseurl }}/images/20220313_124004-2048x1170.jpg)
 
 ⚽️ UD Grandilla Teneriffe – FC Sevilla Femininos 1:0  
 🏆 Primera Division  

@@ -4,7 +4,7 @@ title: Stimmungsvolles Auslaufen in Kopenhagen
 categories: [Groundhopping]
 ---
 
-![](../images/20221102_220429-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20221102_220429-2048x1152.jpg)
 
 ⚽️ FC Kopenhagen – Borussia Dortmund 1:1  
 🏆 Champions League Vorrunde  

@@ -5,7 +5,7 @@ categories: [Groundhopping]
 ---
 
 
-![](../images/20220806_153412-2048x1152.jpg)
+![]({{ site.baseurl }}/images/20220806_153412-2048x1152.jpg)
 
 ⚽️ Würburger Kickers – SpVgg Ansbach 7:1  
 🏆 Regionalliga Bayern  
