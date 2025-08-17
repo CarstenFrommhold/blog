@@ -6,9 +6,9 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%-d. %B %Y" }}</p>
+    <p class="author_title">{{site.author}}  ·  {% include german-date.html date=page.date %}</p>
     {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualisiert: {{ page.last_modified_at | date: "%-d. %b %Y" }})</p>
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualisiert: {% include german-date-short.html date=page.last_modified_at %})</p>
     {% endif %}
     <div class="post-tags">
       {% if post %}
@@ -32,7 +32,7 @@ layout: default
 <!--  </div>-->
 
   <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on {% include german-date.html date=page.date %}
   </div>-->
 
   {% include disqus.html %}

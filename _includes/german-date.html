@@ -1,0 +1,17 @@
+{% assign month = include.date | date: "%m" %}
+{% assign day = include.date | date: "%-d" %}
+{% assign year = include.date | date: "%Y" %}
+{% case month %}
+  {% when '01' %}{% assign month_name = 'Januar' %}
+  {% when '02' %}{% assign month_name = 'Februar' %}
+  {% when '03' %}{% assign month_name = 'März' %}
+  {% when '04' %}{% assign month_name = 'April' %}
+  {% when '05' %}{% assign month_name = 'Mai' %}
+  {% when '06' %}{% assign month_name = 'Juni' %}
+  {% when '07' %}{% assign month_name = 'Juli' %}
+  {% when '08' %}{% assign month_name = 'August' %}
+  {% when '09' %}{% assign month_name = 'September' %}
+  {% when '10' %}{% assign month_name = 'Oktober' %}
+  {% when '11' %}{% assign month_name = 'November' %}
+  {% when '12' %}{% assign month_name = 'Dezember' %}
+{% endcase %}{{ day }}. {{ month_name }} {{ year }}
